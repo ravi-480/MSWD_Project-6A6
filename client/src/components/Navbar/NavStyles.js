@@ -184,16 +184,7 @@ export const NavbarLink = styled(Link)`
 `;
 
 export const Overlay = styled.div`
-  /* position: fixed;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  z-index: 100;
-  background-color: rgba(0, 0, 0, 0.3);
-  display: ${({ open }) => (open ? "block" : "none")};
-  overflow: hidden;
-  height: 100%; */
+ 
 
   position: fixed;
   top: 80px;
@@ -720,16 +711,7 @@ export const SvgImageContainer = styled.div`
 
 export const SvgNavbarLink = styled(Link)``;
 
-// export const BadgeNotification = styled(Badge)`
-//   min-width: 18px;
-//   line-height: 1;
-//   padding: 0 6px;
-//   height: 18px;
-//   background-color: "#ff3f6c";
-//   color: #fff;
-//   top: 0px;
-//   right: -3px;
-// `;
+
 
 export const BadgeNotification = styled(Badge)({
   "& .MuiBadge-badge": {

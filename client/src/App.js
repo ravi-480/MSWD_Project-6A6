@@ -142,12 +142,7 @@ function App() {
             <Route path="address" element={<MyAddress />} />
             <Route path="profile" element={<Profile />} />
           </Route>
-          {/* <Route path="/test1" element={<Test1 />} />
-          <Route path="/test3" element={<Test3 />} />
-          <Route path="/PreviewImg" element={<PreviewImg />} />
-          <Route path="/addimages" element={<Test5 />} />
-          <Route path="/radio" element={<Test8 />} />
-          <Route path="/toast" element={<Toast />} /> */}
+          
           <Route
             path="/checkout/cart"
             element={isAuthenticated ? <Cart /> : <Navigate to="/login" />}

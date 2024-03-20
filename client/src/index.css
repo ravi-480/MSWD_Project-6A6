@@ -30,31 +30,6 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-* {
-  /* -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box; */
-  /* box-sizing: border-box; */
-  /* -webkit-tap-highlight-color: transparent;
-  -webkit-text-size-adjust: none; */
-}
-
-/* input[type="date"]::-webkit-datetime-edit-text {
-  -webkit-appearance: none;
-  display: none;
-}
-input[type="date"]::-webkit-datetime-edit-month-field {
-  -webkit-appearance: none;
-  display: none;
-}
-input[type="date"]::-webkit-datetime-edit-day-field {
-  -webkit-appearance: none;
-  display: none;
-}
-input[type="date"]::-webkit-datetime-edit-year-field {
-  -webkit-appearance: none;
-  display: none;
-} */
-
 a {
   text-decoration: none;
   color: #000;

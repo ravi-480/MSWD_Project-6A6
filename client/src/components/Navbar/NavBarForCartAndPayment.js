@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import MyntraLogo from "../../Assets/Images/Myntra.png";
@@ -173,7 +174,6 @@ const NavBarForCartAndPayment = () => {
           </div>
         </div>
       </NavBarContainer>
-      <BannerAnnouncement ><h3>This Application built only Education Purpose only, All the credit go to Myntra © 2024 www.myntra.com. All rights reserved.</h3> </BannerAnnouncement>
     </NavBarWrapper>
   );
 };

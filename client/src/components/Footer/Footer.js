@@ -122,7 +122,7 @@ const Footer = () => {
           <div className="relative w-10/12 mx-auto text-slate-600">
             <span className="absolute right-0">
               {" "}
-              © 2022 www.myntra.com. All rights reserved.
+              © 2024 www.myntra.com. All rights reserved.
             </span>
           </div>
         </Fragment>

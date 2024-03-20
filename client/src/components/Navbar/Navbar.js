@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from "react";
 import useDebounce from "../useDebounce";
 import {
@@ -524,12 +525,7 @@ const Navbar = () => {
           </SvgNavbarLink>
         </GridItemTwo>
       </NavContainer>
-      <BannerAnnouncement>
-        <h3>
-          This Application built only Education Purpose only, All the credit go
-          to Myntra © 2024 www.myntra.com. All rights reserved.
-        </h3>
-      </BannerAnnouncement>
+      
     </NavbarWrapper>
   );
 };

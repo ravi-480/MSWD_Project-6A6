@@ -40,17 +40,9 @@ https://myntra-clone-by-nitesh.netlify.app
 -  Review 
 -  Profile
 -  Like or Unlike Review
--  Address  
--  Razorpay payment
--  Order details
 -  Cross platform
 
-## Technologies Used
 
--  ImageKit real-time image (https://imagekit.io/)
--  Blurhash Image placeholder (https://blurha.sh/)
--  Google Firebase for Image storage (https://firebase.google.com/)
-## Tech Stack
 
 **Client:** React, RTK,TailwindCSS, Styled Components.
 
@@ -61,11 +53,9 @@ https://myntra-clone-by-nitesh.netlify.app
 
 ## Getting Started
 
- 1. Clone the repository:
+ 
 
-   git clone https://github.com/niteshreddy6690/Myntra-Clone.git 
-
-2. Navigate to the project
+1. Navigate to the project
 
    cd client   
 
@@ -109,6 +99,4 @@ https://myntra-clone-by-nitesh.netlify.app
 
 Make sure to creat your own accounts in Firebase,imagekit and add those API key in the .env file 
 
-## Authors
 
-- [@Nitesh S](https://github.com/niteshreddy6690/)
