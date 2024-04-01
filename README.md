@@ -25,9 +25,7 @@ Myntra clone is E-commeres project built using React, Styled components,Tailwind
 
 
 
-## Live Demo
 
-https://myntra-clone-by-nitesh.netlify.app
 ## Features
 
 -  Responsive design
